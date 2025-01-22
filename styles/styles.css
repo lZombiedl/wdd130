@@ -3,13 +3,14 @@ nav{
 
     background-color: purple;
     padding: 10px;
+    
 
 }
 
 nav a{
 
     color: white;
-    display: block;
+    display: inline-block;
     padding: 20px;
     text-decoration: none;
 
@@ -37,3 +38,9 @@ p{
 
 }
 
+body{
+
+    font-family: Noto Sans;
+
+
+}

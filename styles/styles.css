@@ -29,9 +29,9 @@ main img{
     width:150px;
     height: auto;
     border: 1px solid black;
-    padding: 2px;
+    margin: 2px;
     box-shadow: 0 0 30px gray;
-    padding-left: 1.5rem;
+    margin-left: 1.5rem;
 
 }
 
@@ -90,8 +90,8 @@ aside img{
     width: 200px;
     height: auto;
     display: block;
-    padding-left: 4rem;
-    padding-bottom: 1rem;
+    margin-left: 4rem;
+    margin-bottom: 1rem;
     box-shadow: 0 0 30px gray;
 
 }

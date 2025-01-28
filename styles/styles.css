@@ -28,9 +28,9 @@ main img{
 
     width:150px;
     height: auto;
-    border: 1px solid black padding-left 1.5rem;
+    border: 1px solid black;
     padding: 2px;
-    box-shadow: 0 0 30px gray padding-left 1.5rem;
+    box-shadow: 0 0 30px gray;
     padding-left: 1.5rem;
 
 }
@@ -56,7 +56,7 @@ body{
 
     font-family: Noto Sans;
     background-image: url(/images/background.gif);
-    background-size: cover opacity 0.5;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 
@@ -92,7 +92,7 @@ aside img{
     display: block;
     padding-left: 4rem;
     padding-bottom: 1rem;
-    box-shadow: 0 0 30px gray padding 4rem;
+    box-shadow: 0 0 30px gray;
 
 }
 

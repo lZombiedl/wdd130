@@ -18,8 +18,9 @@ nav a{
 
 h1{
 
-    color: purple;
+    color: whitesmoke;
     text-shadow: 1px 2px 20px white;
+    padding: 0 2rem;
 
 }
 
@@ -27,25 +28,39 @@ main img{
 
     width:150px;
     height: auto;
-    border: 1px solid black;
+    border: 1px solid black padding-left 1.5rem;
     padding: 2px;
-    box-shadow: 0 0 30px gray;
+    box-shadow: 0 0 30px gray padding-left 1.5rem;
+    padding-left: 1.5rem;
 
 }
+
+main p{
+
+    background-color: black;
+    border: solid black;
+    border-radius: 5px;
+    width: 100%;
+
+}
+
 
 p{
 
     padding: 0;
+    color: white;
 
 }
 
 body{
 
     font-family: Noto Sans;
-    background-image: url(images/background.gif);
-    background-size: cover;
+    background-image: url(/images/background.gif);
+    background-size: cover opacity 0.5;
     background-position: center;
     background-repeat: no-repeat;
+
+
 }
 
 
@@ -87,6 +102,8 @@ footer{
     margin-top: 15px;
     border-top: 1px solid white;
     text-align: center;
+    color: white;
+    font-size: 17px;
 
 }
 
